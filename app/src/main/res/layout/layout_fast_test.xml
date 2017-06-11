@@ -2,10 +2,9 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context=".activity.MainActivity">
+    android:layout_height="match_parent">
 
-    <com.cl253.fasttest.view.FastTestView
+    <com.kewang.fasttest.view.FastTestView
         android:id="@+id/ftView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
